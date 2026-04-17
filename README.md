@@ -4,4 +4,4 @@ make sure to download pygame using terminal
 
 open terminal in pycharm then type 
 ps install pygame
-ready to code 
+ready to program
