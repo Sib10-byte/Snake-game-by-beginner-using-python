@@ -1,4 +1,4 @@
-# Snake-game-by-beginner-using-python
+# Snake-game
 Its basic python game using pygame module 
 make sure to download pygame using terminal 
 
